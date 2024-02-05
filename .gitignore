@@ -1,0 +1,5 @@
+data/
+Eth-data-raw/
+Notebook/
+*.ipynb_checkpoints
+best_nn_model_01.ipynb
