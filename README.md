@@ -24,7 +24,7 @@ Here you can find the working notebooks in order from start to finish in this pr
 
 #### Models
 7.**[Base Modelling](./Models/base_modelling.ipynb)** <br />
-8.**[Base Modelling](./Models/neural_network.ipynb)** <br />
+8.**[Neural Network](./Models/neural_network.ipynb)** <br />
 
 
 ## Data
